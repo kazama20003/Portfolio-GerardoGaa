@@ -24,7 +24,8 @@ function App() {
 ;
 
   return (
-    <>  
+    <>
+        
         <div className="encabezado-flex">
           <header className="encabezado">
             <nav className="nav-encabezado">
@@ -53,7 +54,7 @@ function App() {
               <div className="container__informacion">
                 <div className="descripcion">
                   <h2 className="titulo">
-                    Hola, soy Gerardo Chevarria
+                    Hola, soy Gerardo Kazama
                   </h2>
                   <h2 className="subtitulo">Programador Frontend</h2>
                   <a href="https://api.whatsapp.com/send?phone=51910335230&text=Hola%20Gerardo!" className="button" target="_blank">Contáctame</a>
